@@ -30,13 +30,13 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: #4EFFFF;
-  background-image: url(/src/assets/logo_back1.webp);
+  background-image: url('assets/logo_back1.webp');
   background-repeat: space;
 }
 
 @media (max-width: 768px) {
   body {
-    background-image: url(/src/assets/logo_back.webp);
+    background-image: url('assets/logo_back.webp');
   }
 }
 
